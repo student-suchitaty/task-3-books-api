@@ -37,19 +37,19 @@ The server runs at `http://localhost:3000`.
 ## Screenshots (tested with Postman)
 
 **GET all books (200)**
-![GET](Screenshot/get-all-books.PNG)
+![GET](screenshots/get-all-books.PNG)
 
 **POST add a book (201)**
-![POST](Screenshot/POST.PNG)
+![POST](screenshots/POST.PNG)
 
 **PUT update a book (200)**
-![PUT](Screenshot/PUT.PNG)
+![PUT](screenshots/PUT.PNG)
 
 **DELETE remove a book (200)**
-![DELETE](Screenshot/DELETE.PNG)
+![DELETE](screenshots/DELETE.PNG)
 
 **GET unknown book (404)**
-![404](Screenshot/not-found.PNG)
+![404](screenshots/not-found.PNG)
 
 **Final state after all operations**
-![Final](Screenshot/final-state.PNG)
+![Final](screenshots/final-state.PNG)
